@@ -14,7 +14,7 @@ service). It comes with dependencies for testing, linting, and packaging.
 
 ### Setup a new project
 ```shell
-cookiecutter gh:mikelane/cookiecutter-python-library
+cookiecutter gh:geob3d/cookiecutter-python-etl
 ```
 
 Answer the questions that cookiecutter asks you. You can accept the defaults by
